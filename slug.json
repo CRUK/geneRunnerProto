@@ -15,7 +15,7 @@
     "jquery.ui.core"
   ],
   "libs": [
-    "node_modules/Zooniverse/vendor/base64.js",
+    "node_modules/zooniverse/vendor/base64.js",
     "./lib/modernizr.custom.75430.js",
     "./lib/aight.min.js",
     "node_modules/underscore/underscore-min.js",
